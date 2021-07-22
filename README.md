@@ -1,6 +1,8 @@
 # NiagaraFlockingSimulation
 Flocking simulation(Boids) in Unreal Engine 4 Niagara(GPU simulation stage)
 
+Demo : https://www.youtube.com/watch?v=9U0NQuswnK0
+
 ![capture](https://github.com/mushe/NiagaraFlockingSimulation/raw/main/capture.gif)
 
 ## Reference
