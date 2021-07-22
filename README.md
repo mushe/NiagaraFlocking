@@ -1,4 +1,4 @@
-# UE4NiagaraFlockingSimulation
+# NiagaraFlockingSimulation
 Flocking simulation(Boids) in Unreal Engine 4 Niagara(GPU simulation stage)
 
 ## Reference
